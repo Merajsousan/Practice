@@ -1,0 +1,9 @@
+div.first{background-color: blue;}
+div.second{background-color: chartreuse;}
+div.third{background-color: crimson;}
+div>h1{background-color: darkred;}
+div>p{background-color: darkgreen;}
+div>div>h2{background-color:lightblue}
+div>div>p{background-color: darkslategrey;}
+div>div>div>p{background-color: fuchsia;}
+div>div>div>a{background-color:wheat;}
